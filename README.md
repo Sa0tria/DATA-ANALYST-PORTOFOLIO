@@ -8,4 +8,7 @@ This portfolio showcases a collection of data projects that highlight both my te
 
 ## Table of Contents
 
-Know me more [About Me] (https://www.linkedin.com/in/satriadwiputro/)
++ *Know me more* [*Here*](linkedin.com/in/satriadwiputro/)
++ [*Education*]()
+
+## Education

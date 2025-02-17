@@ -14,6 +14,7 @@ This portfolio showcases a collection of data projects that highlight both my te
 + [*Portofolio Projects*](url)
 
 ## Education
+Gunadarma University, Bachelor's degree - Computer Science, 2020 - 2024.
 
 ## Certification
 

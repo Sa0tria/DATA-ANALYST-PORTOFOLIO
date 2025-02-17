@@ -10,5 +10,11 @@ This portfolio showcases a collection of data projects that highlight both my te
 
 + *Know me more* [*Here*](linkedin.com/in/satriadwiputro/)
 + [*Education*]()
++ [*Certification*]()
++ [*Portofolio Projects*](url)
 
 ## Education
+
+## Certification
+
+## Portofolio Projects

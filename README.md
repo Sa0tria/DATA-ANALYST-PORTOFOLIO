@@ -8,7 +8,7 @@ This portfolio showcases a collection of data projects that highlight both my te
 
 ## Table of Contents
 
-+ [*About Me*](linkedin.com/in/satriadwiputro/)
++ [*About Me*](https://github.com/Sa0tria/DATA-ANALYST-PORTOFOLIO/tree/main?tab=readme-ov-file#data-analyst-portofolio)
 + [*Education*](https://github.com/Sa0tria/DATA-ANALYST-PORTOFOLIO/tree/main?tab=readme-ov-file#education)
 + [*Certification*](https://github.com/Sa0tria/DATA-ANALYST-PORTOFOLIO/blob/main/README.md#certification)
 + [*Portofolio Projects*](url)

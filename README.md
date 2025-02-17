@@ -14,7 +14,7 @@ This portfolio showcases a collection of data projects that highlight both my te
 + [*Portofolio Projects*](url)
 
 ## Education
-Gunadarma University, Bachelor's degree - Computer Science, 2020 - 2024.
+Gunadarma University, Bachelor's degree - Computer Science, 2020 - 2025.
 
 ## Certification
 [RevoU Mini Course](https://drive.google.com/file/d/1ldDjb9B0KALZTbTAabUBK-aWANPp-MRB/view?usp=drive_link) (Data Analytics - 2024)

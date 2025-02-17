@@ -17,5 +17,6 @@ This portfolio showcases a collection of data projects that highlight both my te
 Gunadarma University, Bachelor's degree - Computer Science, 2020 - 2024.
 
 ## Certification
+[RevoU Mini Course](https://drive.google.com/file/d/1ldDjb9B0KALZTbTAabUBK-aWANPp-MRB/view?usp=drive_link) (Data Analytics - 2024)
 
 ## Portofolio Projects

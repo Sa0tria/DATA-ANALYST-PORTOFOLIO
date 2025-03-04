@@ -12,6 +12,7 @@ This portfolio showcases a collection of data projects that highlight both my te
 + [*Education*](https://github.com/Sa0tria/DATA-ANALYST-PORTOFOLIO/tree/main?tab=readme-ov-file#education)
 + [*Certification*](https://github.com/Sa0tria/DATA-ANALYST-PORTOFOLIO/blob/main/README.md#certification)
 + [*Portofolio Projects*](url)
++ [*Tableau*](https://public.tableau.com/app/profile/satria.dwi.putro/vizzes)
 
 ## Education
 Gunadarma University, Bachelor's degree - Computer Science, 2020 - 2024.
